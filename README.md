@@ -64,7 +64,7 @@ todo_list_app/
 
 ## 👤 Author
 
-Made with ❤️ by [Your Name](https://github.com/Talha146)
+Made with ❤️ by [Talha Shahzad](https://github.com/Talha146)
 
 ---
 
